@@ -1,5 +1,6 @@
 h2{
-    color: brown;
+    color: rgb(42, 165, 83);
+    box-shadow: 30px; 20px; 
 }
 p{
     border-radius: 30px;
